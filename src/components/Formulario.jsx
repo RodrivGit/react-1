@@ -2,7 +2,7 @@ import React from 'react'
 
 const Formulario = () => {
   return (
-    <div className="">Formulario</div>
+    <div className="">Formulario2</div>
   )
 }
 
